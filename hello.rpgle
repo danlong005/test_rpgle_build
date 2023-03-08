@@ -2,7 +2,7 @@
 
        dsply 'Na Na Na... Hey hey... goodbyyyyyyyyyeeee';
       
-      * this is a comment 
-      
+        dsply 'Let'' see if this dude will auto push'
+
        *inlr = *on;
        return;
