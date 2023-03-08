@@ -2,7 +2,7 @@
 
        dsply 'Na Na Na... Hey hey... goodbyyyyyyyyyeeee';
       
-        dsply 'Let'' see if this dude will auto push'
+        dsply 'trying this again -> auto deploy';
 
        *inlr = *on;
        return;
