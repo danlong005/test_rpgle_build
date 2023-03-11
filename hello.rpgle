@@ -1,4 +1,4 @@
-       ctl-opt options(*SRCSTMT:*NODEBUGIO);
+       ctl-opt option(*SRCSTMT:*NODEBUGIO);
 
        dsply 'Na Na Na... Hey hey... goodbyyyyyyyyyeeee';
       
